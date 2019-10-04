@@ -83,7 +83,9 @@ nav {
         position: relative;
         top: 28px;
     }
-
+    .container {
+        width:960px;
+    }
 }
 
 body {
@@ -98,11 +100,6 @@ h2 {
     margin: 10px
 }
 
-@media only screen and (min-width: 960px) {
-    .container {
-        width:960px;
-    }
-}
 
 
 #me {
