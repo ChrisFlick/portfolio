@@ -194,6 +194,16 @@ footer {
 }
 
 
+
+
+.contactImg {
+    width: 50px;
+}
+
+.contact {
+    height: 300px
+}
+
 @media only screen and (max-width: 960px) {
     .portCon {
         width: 50px;
@@ -212,12 +222,8 @@ footer {
 
         top: -40px
     }
-}
 
-.contactImg {
-    width: 50px;
-}
-
-.contact {
-    height: 300px
+    .contact {
+        height: 500px;
+    }
 }
